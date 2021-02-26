@@ -1,0 +1,17 @@
+{
+  "name": "neo4j-smith",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "SpongeData <info@spongedata.cz> (https://spongedata.cz/)",
+  "license": "MIT",
+  "dependencies": {
+    "neo4j-driver": "^4.2.2"
+  }
+}

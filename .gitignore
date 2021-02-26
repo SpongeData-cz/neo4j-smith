@@ -1,0 +1,15 @@
+/local/
+
+# Linux nodeenv
+/bin/
+/include/
+/lib/
+/node_modules/
+/share/
+/src/node-*
+
+# Neo4j
+/data/
+/plugins/
+
+!.gitkeep
