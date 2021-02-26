@@ -1,6 +1,8 @@
 # Neo4j Smith
 > OGM for Neo4j
 
+[![License](https://img.shields.io/github/license/SpongeData-cz/neo4j-smith)](LICENSE)
+
 # Table of Contents
 * [Neo4j for Testing Purposes](#neo4j-for-testing-purposes)
 
